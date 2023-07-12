@@ -1,0 +1,48 @@
+.nav{
+    box-sizing: border-box;
+    width: 85vw;
+    height: 50px;
+    background-color: rgb(3 121 233 / 57%);
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10vw;
+
+}
+.logo-image{
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.logo-home{
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.logo-books{
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.logo-review{
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.logo-home>span{
+    cursor: pointer;
+}
+.register{
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.register>span{
+    cursor: pointer;
+}
