@@ -103,7 +103,7 @@ const HomeComponent = () => {
                             <FaTwitter className={`footer-icon `} />
                         </a>
                         <a
-                            href="https://www.instagram.com/kiran_gottumukkala/"
+                            href="https://www.instagram.com/"
                             target="__blank"
                             rel="noopener noreferrer"
                             type="button"
