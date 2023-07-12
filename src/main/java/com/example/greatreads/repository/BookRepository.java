@@ -1,5 +1,6 @@
 package com.example.greatreads.repository;
 
+
 import com.example.greatreads.model.Book;
 import com.example.greatreads.model.enums.BookStatus;
 import org.springframework.data.jpa.repository.JpaRepository;
